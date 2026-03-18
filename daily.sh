@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Go to your repo (CHANGE THIS PATH)
-cd ~/Documents/GITHUB/dialy-log || exit
+cd ~/Documents/GITHUB/daily-log || exit
 
 # Get date and time
 DATE=$(date +"%Y-%m-%d_%H-%M-%S")
